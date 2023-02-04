@@ -17,7 +17,7 @@ The project is built using:
 * JavaScript
 
 ## Sources
-Basketball scoreboard is a solo project that was part of the Frontend Developer Career Path at Scrimba.
+Basketball scoreboard is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
 
 ## Project status
 The project is complete.

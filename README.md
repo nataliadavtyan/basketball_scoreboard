@@ -1,13 +1,26 @@
-# co390401982197e716d3fb7cd
+# Basketball scoreboard
 
-## About Scrimba
+Basketball scoreboard is used to add points to the teams during a basketball game.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
+Users can press the buttons to add 1, 2 or 3 points to the Home or Guest teams. There is also a New Game button available that resets the scores.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Demo
+See [the demonstration](./basketball-scoreboard.gif)
 
-Happy Coding!
+or test it on Netlify: https://jocular-paletas-77e3ea.netlify.app/
+
+## Technologies
+The project is built using:
+* HTML
+* CSS
+* JavaScript
+
+## Sources
+Basketball scoreboard is a solo project that was part of the Frontend Developer Career Path at Scrimba.
+
+## Project status
+The project is complete.
+
+## Contact
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan)

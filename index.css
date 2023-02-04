@@ -6,6 +6,7 @@
 body {
     margin: 0;
     text-align: center;
+    background-color: #EDF0FC;
 }
 
 .scoreboard {
@@ -27,7 +28,6 @@ h3 {
     font-weight: 700;
     font-size: 40px;
     line-height: 36px;
-    /* identical to box height, or 90% */
     color: #EEEEEE;
     margin-top: 68px;
 }
@@ -43,7 +43,6 @@ h3 {
     font-weight: 400;
     font-size: 90px;
     line-height: 127px;
-    /* or 141% */
     color: #F94F6D;
 }
 

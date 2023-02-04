@@ -6,9 +6,9 @@ Basketball scoreboard is used to add points to the teams during a basketball gam
 Users can press the buttons to add 1, 2 or 3 points to the Home or Guest teams. There is also a New Game button available that resets the scores.
 
 ## Demo
-See [the demonstration](./basketball-scoreboard.gif)
+![The demonstration](./basketball-scoreboard.gif)
 
-or test it on Netlify: https://jocular-paletas-77e3ea.netlify.app/
+Or test it on Netlify: https://jocular-paletas-77e3ea.netlify.app/
 
 ## Technologies
 The project is built using:

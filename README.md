@@ -8,7 +8,7 @@ Users can press the buttons to add 1, 2 or 3 points to the Home or Guest teams. 
 ## Demo
 ![The demonstration](./basketball-scoreboard.gif)
 
-Test it on Netlify: https://jocular-paletas-77e3ea.netlify.app/
+Test it on Netlify: https://basketball-scoreboard-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
